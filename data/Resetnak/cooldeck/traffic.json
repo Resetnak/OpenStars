@@ -1,0 +1,768 @@
+{
+  "schema": 1,
+  "repo": "Resetnak/cooldeck",
+  "generator": "openstars/1.0.0",
+  "first_collected": "2026-07-24",
+  "last_collected_at": "2026-09-06T10:50:16.768Z",
+  "daily": [
+    {
+      "date": "2026-07-24",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-25",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-26",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-27",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-28",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-29",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-30",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-31",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-01",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-02",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-03",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-04",
+      "views": 65,
+      "views_uniques": 1,
+      "clones": 65,
+      "clones_uniques": 1,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-05",
+      "views": 163,
+      "views_uniques": 29,
+      "clones": 434,
+      "clones_uniques": 45,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-06",
+      "views": 70,
+      "views_uniques": 24,
+      "clones": 228,
+      "clones_uniques": 29,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-07",
+      "views": 54,
+      "views_uniques": 7,
+      "clones": 146,
+      "clones_uniques": 20,
+      "stars": 8,
+      "forks": 0,
+      "watchers": 8,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-08",
+      "views": 4,
+      "views_uniques": 4,
+      "clones": 9,
+      "clones_uniques": 2,
+      "stars": 8,
+      "forks": 0,
+      "watchers": 8,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-09",
+      "views": 26,
+      "views_uniques": 6,
+      "clones": 49,
+      "clones_uniques": 8,
+      "stars": 9,
+      "forks": 0,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-10",
+      "views": 42,
+      "views_uniques": 28,
+      "clones": 3,
+      "clones_uniques": 2,
+      "stars": 10,
+      "forks": 0,
+      "watchers": 10,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-11",
+      "views": 30,
+      "views_uniques": 20,
+      "clones": 41,
+      "clones_uniques": 4,
+      "stars": 11,
+      "forks": 0,
+      "watchers": 11,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-12",
+      "views": 10,
+      "views_uniques": 7,
+      "clones": 41,
+      "clones_uniques": 5,
+      "stars": 11,
+      "forks": 0,
+      "watchers": 11,
+      "subscribers": 0,
+      "open_issues": 1,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-13",
+      "views": 13,
+      "views_uniques": 8,
+      "clones": 1,
+      "clones_uniques": 1,
+      "stars": 11,
+      "forks": 0,
+      "watchers": 11,
+      "subscribers": 0,
+      "open_issues": 1,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-14",
+      "views": 2,
+      "views_uniques": 2,
+      "clones": 77,
+      "clones_uniques": 1,
+      "stars": 11,
+      "forks": 0,
+      "watchers": 11,
+      "subscribers": 0,
+      "open_issues": 1,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-15",
+      "views": 4,
+      "views_uniques": 4,
+      "clones": 3,
+      "clones_uniques": 3,
+      "stars": 12,
+      "forks": 0,
+      "watchers": 12,
+      "subscribers": 0,
+      "open_issues": 1,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-16",
+      "views": 1,
+      "views_uniques": 1,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 12,
+      "forks": 0,
+      "watchers": 12,
+      "subscribers": 0,
+      "open_issues": 1,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-17",
+      "views": 6,
+      "views_uniques": 4,
+      "clones": 3,
+      "clones_uniques": 2,
+      "stars": 12,
+      "forks": 0,
+      "watchers": 12,
+      "subscribers": 0,
+      "open_issues": 1,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-18",
+      "views": 1,
+      "views_uniques": 1,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": 13,
+      "forks": 0,
+      "watchers": 13,
+      "subscribers": 0,
+      "open_issues": 1,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-19",
+      "views": 8,
+      "views_uniques": 2,
+      "clones": 46,
+      "clones_uniques": 7,
+      "stars": 13,
+      "forks": 0,
+      "watchers": 13,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-20",
+      "views": 1,
+      "views_uniques": 1,
+      "clones": 41,
+      "clones_uniques": 3,
+      "stars": 13,
+      "forks": 0,
+      "watchers": 13,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-21",
+      "views": 8,
+      "views_uniques": 2,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": 13,
+      "forks": 0,
+      "watchers": 13,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-22",
+      "views": 2,
+      "views_uniques": 2,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": 13,
+      "forks": 0,
+      "watchers": 13,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-23",
+      "views": 1,
+      "views_uniques": 1,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-24",
+      "views": 14,
+      "views_uniques": 7,
+      "clones": 13,
+      "clones_uniques": 7,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-25",
+      "views": 1,
+      "views_uniques": 1,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-26",
+      "views": 14,
+      "views_uniques": 3,
+      "clones": 23,
+      "clones_uniques": 5,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-27",
+      "views": 7,
+      "views_uniques": 3,
+      "clones": 7,
+      "clones_uniques": 4,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-28",
+      "views": 7,
+      "views_uniques": 1,
+      "clones": 3,
+      "clones_uniques": 1,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-29",
+      "views": 1,
+      "views_uniques": 1,
+      "clones": 9,
+      "clones_uniques": 5,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-30",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-31",
+      "views": 3,
+      "views_uniques": 3,
+      "clones": 4,
+      "clones_uniques": 3,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-01",
+      "views": 11,
+      "views_uniques": 7,
+      "clones": 1,
+      "clones_uniques": 1,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-02",
+      "views": 156,
+      "views_uniques": 111,
+      "clones": 45,
+      "clones_uniques": 27,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-03",
+      "views": 30,
+      "views_uniques": 13,
+      "clones": 6,
+      "clones_uniques": 6,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-04",
+      "views": 13,
+      "views_uniques": 6,
+      "clones": 56,
+      "clones_uniques": 19,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-05",
+      "views": 4,
+      "views_uniques": 4,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-06",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 22,
+      "forks": 1,
+      "watchers": 22,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": 20751
+    }
+  ],
+  "referrers": {
+    "2026-09-06": [
+      {
+        "referrer": "terminaltrove.com",
+        "count": 35,
+        "uniques": 22
+      },
+      {
+        "referrer": "github.com",
+        "count": 19,
+        "uniques": 6
+      },
+      {
+        "referrer": "news.ycombinator.com",
+        "count": 11,
+        "uniques": 8
+      },
+      {
+        "referrer": "reddit.com",
+        "count": 5,
+        "uniques": 5
+      },
+      {
+        "referrer": "Google",
+        "count": 4,
+        "uniques": 4
+      },
+      {
+        "referrer": "kagi.com",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "referrer": "vuink.com",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "referrer": "com.reddit.frontpage",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "referrer": "Bing",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "hn.nugo.cc",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
+  },
+  "paths": {
+    "2026-09-06": [
+      {
+        "path": "/Resetnak/cooldeck",
+        "title": "Overview",
+        "count": 142,
+        "uniques": 91
+      },
+      {
+        "path": "/Resetnak/cooldeck/stargazers",
+        "title": "/stargazers",
+        "count": 11,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/pulls",
+        "title": "/pulls",
+        "count": 8,
+        "uniques": 4
+      },
+      {
+        "path": "/Resetnak/cooldeck/releases/tag/v0.5.0",
+        "title": "/releases/tag/v0.5.0",
+        "count": 4,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/CONTRIBUTING.md",
+        "title": "/blob/main/CONTRIBUTING.md",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/assets/demo.gif",
+        "title": "/blob/main/assets/demo.gif",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/go.mod",
+        "title": "/blob/main/go.mod",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/tree/main/internal",
+        "title": "/tree/main/internal",
+        "count": 3,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/.golangci.yml",
+        "title": "/blob/main/.golangci.yml",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/CHANGELOG.md",
+        "title": "/blob/main/CHANGELOG.md",
+        "count": 2,
+        "uniques": 2
+      }
+    ]
+  },
+  "releases": {
+    "2026-09-06": [
+      {
+        "tag": "v0.6.0",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.5.2",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.5.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.5.0",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.4.0",
+        "downloads": 6
+      },
+      {
+        "tag": "v0.3.2",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.0",
+        "downloads": 0
+      },
+      {
+        "tag": "v0.2.1",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.2.0",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.2",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.1.1",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.0",
+        "downloads": 12
+      }
+    ]
+  }
+}

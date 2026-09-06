@@ -1,0 +1,205 @@
+{
+  "schema": 1,
+  "repo": "Resetnak/OpenStars",
+  "generator": "openstars/1.0.0",
+  "first_collected": "2026-09-06",
+  "last_collected_at": "2026-09-06T10:50:16.768Z",
+  "daily": [
+    {
+      "date": "2026-08-24",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-25",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-26",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-27",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-28",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-29",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-30",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-31",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-01",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-02",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-03",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-04",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-05",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-06",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": 0
+    }
+  ],
+  "referrers": {
+    "2026-09-06": []
+  },
+  "paths": {
+    "2026-09-06": []
+  },
+  "releases": {
+    "2026-09-06": [
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ]
+  }
+}

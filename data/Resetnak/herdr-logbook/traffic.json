@@ -1,0 +1,730 @@
+{
+  "schema": 1,
+  "repo": "Resetnak/herdr-logbook",
+  "generator": "openstars/1.0.0+seed",
+  "first_collected": "2026-07-24",
+  "last_collected_at": "2026-09-06T10:21:43.879Z",
+  "daily": [
+    {
+      "date": "2026-07-24",
+      "views": 14,
+      "views_uniques": 4,
+      "clones": 38,
+      "clones_uniques": 17,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-25",
+      "views": 11,
+      "views_uniques": 6,
+      "clones": 3,
+      "clones_uniques": 3,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-26",
+      "views": 50,
+      "views_uniques": 7,
+      "clones": 28,
+      "clones_uniques": 14,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-27",
+      "views": 56,
+      "views_uniques": 7,
+      "clones": 24,
+      "clones_uniques": 16,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-28",
+      "views": 24,
+      "views_uniques": 3,
+      "clones": 84,
+      "clones_uniques": 22,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-29",
+      "views": 26,
+      "views_uniques": 9,
+      "clones": 16,
+      "clones_uniques": 8,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-30",
+      "views": 17,
+      "views_uniques": 7,
+      "clones": 137,
+      "clones_uniques": 38,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-07-31",
+      "views": 93,
+      "views_uniques": 18,
+      "clones": 58,
+      "clones_uniques": 20,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-01",
+      "views": 31,
+      "views_uniques": 25,
+      "clones": 5,
+      "clones_uniques": 5,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-02",
+      "views": 11,
+      "views_uniques": 5,
+      "clones": 1,
+      "clones_uniques": 1,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-03",
+      "views": 37,
+      "views_uniques": 8,
+      "clones": 5,
+      "clones_uniques": 4,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-04",
+      "views": 49,
+      "views_uniques": 9,
+      "clones": 5,
+      "clones_uniques": 5,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-05",
+      "views": 28,
+      "views_uniques": 11,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-06",
+      "views": 36,
+      "views_uniques": 15,
+      "clones": 16,
+      "clones_uniques": 7,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-07",
+      "views": 9,
+      "views_uniques": 5,
+      "clones": 25,
+      "clones_uniques": 11,
+      "stars": 7,
+      "forks": 1,
+      "watchers": 7,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-08",
+      "views": 16,
+      "views_uniques": 12,
+      "clones": 4,
+      "clones_uniques": 3,
+      "stars": 7,
+      "forks": 1,
+      "watchers": 7,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-09",
+      "views": 13,
+      "views_uniques": 8,
+      "clones": 14,
+      "clones_uniques": 6,
+      "stars": 8,
+      "forks": 1,
+      "watchers": 8,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-10",
+      "views": 14,
+      "views_uniques": 13,
+      "clones": 7,
+      "clones_uniques": 7,
+      "stars": 8,
+      "forks": 1,
+      "watchers": 8,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-11",
+      "views": 13,
+      "views_uniques": 5,
+      "clones": 3,
+      "clones_uniques": 2,
+      "stars": 8,
+      "forks": 1,
+      "watchers": 8,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-12",
+      "views": 9,
+      "views_uniques": 8,
+      "clones": 5,
+      "clones_uniques": 3,
+      "stars": 8,
+      "forks": 1,
+      "watchers": 8,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-13",
+      "views": 8,
+      "views_uniques": 5,
+      "clones": 6,
+      "clones_uniques": 4,
+      "stars": 8,
+      "forks": 1,
+      "watchers": 8,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-14",
+      "views": 5,
+      "views_uniques": 4,
+      "clones": 5,
+      "clones_uniques": 5,
+      "stars": 8,
+      "forks": 1,
+      "watchers": 8,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-15",
+      "views": 62,
+      "views_uniques": 10,
+      "clones": 24,
+      "clones_uniques": 13,
+      "stars": 9,
+      "forks": 1,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-16",
+      "views": 10,
+      "views_uniques": 3,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 9,
+      "forks": 1,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-17",
+      "views": 21,
+      "views_uniques": 11,
+      "clones": 11,
+      "clones_uniques": 7,
+      "stars": 9,
+      "forks": 1,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-18",
+      "views": 11,
+      "views_uniques": 11,
+      "clones": 1,
+      "clones_uniques": 1,
+      "stars": 9,
+      "forks": 1,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-19",
+      "views": 13,
+      "views_uniques": 4,
+      "clones": 13,
+      "clones_uniques": 7,
+      "stars": 9,
+      "forks": 1,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-20",
+      "views": 4,
+      "views_uniques": 4,
+      "clones": 8,
+      "clones_uniques": 6,
+      "stars": 9,
+      "forks": 1,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-21",
+      "views": 5,
+      "views_uniques": 4,
+      "clones": 12,
+      "clones_uniques": 6,
+      "stars": 9,
+      "forks": 1,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-22",
+      "views": 13,
+      "views_uniques": 7,
+      "clones": 4,
+      "clones_uniques": 2,
+      "stars": 9,
+      "forks": 1,
+      "watchers": 9,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-23",
+      "views": 2,
+      "views_uniques": 2,
+      "clones": 3,
+      "clones_uniques": 1,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-24",
+      "views": 28,
+      "views_uniques": 4,
+      "clones": 25,
+      "clones_uniques": 12,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-25",
+      "views": 10,
+      "views_uniques": 6,
+      "clones": 5,
+      "clones_uniques": 3,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-26",
+      "views": 25,
+      "views_uniques": 8,
+      "clones": 17,
+      "clones_uniques": 8,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-27",
+      "views": 25,
+      "views_uniques": 10,
+      "clones": 15,
+      "clones_uniques": 9,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-28",
+      "views": 10,
+      "views_uniques": 5,
+      "clones": 4,
+      "clones_uniques": 3,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-29",
+      "views": 3,
+      "views_uniques": 3,
+      "clones": 1,
+      "clones_uniques": 1,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-30",
+      "views": 2,
+      "views_uniques": 2,
+      "clones": 4,
+      "clones_uniques": 3,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-08-31",
+      "views": 20,
+      "views_uniques": 17,
+      "clones": 13,
+      "clones_uniques": 5,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-01",
+      "views": 11,
+      "views_uniques": 7,
+      "clones": 46,
+      "clones_uniques": 7,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-02",
+      "views": 10,
+      "views_uniques": 8,
+      "clones": 4,
+      "clones_uniques": 3,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-03",
+      "views": 3,
+      "views_uniques": 3,
+      "clones": 14,
+      "clones_uniques": 7,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-04",
+      "views": 4,
+      "views_uniques": 4,
+      "clones": 4,
+      "clones_uniques": 3,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-05",
+      "views": 3,
+      "views_uniques": 3,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": null,
+      "forks": null,
+      "watchers": null,
+      "subscribers": null,
+      "open_issues": null,
+      "size_kb": null
+    },
+    {
+      "date": "2026-09-06",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 12,
+      "forks": 1,
+      "watchers": 12,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 7110
+    }
+  ],
+  "referrers": {
+    "2026-09-06": [
+      {
+        "referrer": "github.com",
+        "count": 38,
+        "uniques": 3
+      },
+      {
+        "referrer": "Google",
+        "count": 12,
+        "uniques": 2
+      },
+      {
+        "referrer": "Bing",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "DuckDuckGo",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
+  },
+  "paths": {
+    "2026-09-06": [
+      {
+        "path": "/Resetnak/herdr-logbook",
+        "title": "Overview",
+        "count": 95,
+        "uniques": 63
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/discussions/18",
+        "title": "/discussions/18",
+        "count": 16,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/issues",
+        "title": "/issues",
+        "count": 9,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/discussions",
+        "title": "/discussions",
+        "count": 6,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/issues/19",
+        "title": "/issues/19",
+        "count": 6,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/stargazers",
+        "title": "/stargazers",
+        "count": 5,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/assets/demo.gif",
+        "title": "/blob/main/assets/demo.gif",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/graphs/contributors",
+        "title": "/graphs/contributors",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/pulse",
+        "title": "/pulse",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/config.example.toml",
+        "title": "/blob/main/config.example.toml",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
+  },
+  "releases": {
+    "2026-09-06": [
+      {
+        "tag": "v0.0.13",
+        "downloads": 40
+      },
+      {
+        "tag": "v0.0.12",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.11",
+        "downloads": 8
+      },
+      {
+        "tag": "v0.0.9",
+        "downloads": 46
+      },
+      {
+        "tag": "v0.0.8",
+        "downloads": 18
+      },
+      {
+        "tag": "v0.0.7",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.0.6",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.5",
+        "downloads": 2
+      },
+      {
+        "tag": "v0.0.4",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.3",
+        "downloads": 10
+      },
+      {
+        "tag": "v0.0.2",
+        "downloads": 5
+      }
+    ]
+  }
+}

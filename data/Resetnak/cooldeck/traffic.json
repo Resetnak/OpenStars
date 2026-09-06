@@ -3,7 +3,7 @@
   "repo": "Resetnak/cooldeck",
   "generator": "openstars/1.0.0",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-09-06T10:50:16.768Z",
+  "last_collected_at": "2026-09-06T17:36:33.709Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -583,9 +583,9 @@
       "views_uniques": 0,
       "clones": 0,
       "clones_uniques": 0,
-      "stars": 22,
+      "stars": 23,
       "forks": 1,
-      "watchers": 22,
+      "watchers": 23,
       "subscribers": 0,
       "open_issues": 2,
       "size_kb": 20751

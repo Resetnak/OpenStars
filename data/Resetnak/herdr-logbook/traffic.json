@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "Resetnak/herdr-logbook",
-  "generator": "openstars/1.0.0+seed",
+  "generator": "openstars/1.0.0",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-09-06T10:21:43.879Z",
+  "last_collected_at": "2026-09-06T17:36:33.709Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -584,7 +584,7 @@
       "clones": 0,
       "clones_uniques": 0,
       "stars": 12,
-      "forks": 1,
+      "forks": 2,
       "watchers": 12,
       "subscribers": 0,
       "open_issues": 0,
@@ -683,7 +683,7 @@
     "2026-09-06": [
       {
         "tag": "v0.0.13",
-        "downloads": 40
+        "downloads": 42
       },
       {
         "tag": "v0.0.12",

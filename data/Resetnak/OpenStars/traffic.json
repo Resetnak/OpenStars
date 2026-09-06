@@ -3,7 +3,7 @@
   "repo": "Resetnak/OpenStars",
   "generator": "openstars/1.0.0",
   "first_collected": "2026-09-06",
-  "last_collected_at": "2026-09-06T17:36:33.709Z",
+  "last_collected_at": "2026-09-06T17:46:43.684Z",
   "daily": [
     {
       "date": "2026-08-24",
@@ -184,8 +184,8 @@
       "forks": 0,
       "watchers": 0,
       "subscribers": 0,
-      "open_issues": 0,
-      "size_kb": 104
+      "open_issues": 2,
+      "size_kb": 0
     }
   ],
   "referrers": {

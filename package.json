@@ -1,0 +1,25 @@
+{
+  "name": "openstars",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub Action that keeps your repository traffic history (views, clones, referrers, stars) beyond GitHub's 14-day limit, in your own repo.",
+  "license": "MIT",
+  "author": "Alexandr Rešetňak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Resetnak/openstars"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "check": "tsc -p tsconfig.json --noEmit",
+    "test": "npm run build && node --test test/*.test.mjs && node test/smoke.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "typescript": "^5.6.0"
+  }
+}

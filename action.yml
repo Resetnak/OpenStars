@@ -1,0 +1,63 @@
+name: OpenStars
+description: Keep your GitHub repository traffic history (views, clones, referrers, stars) beyond the 14-day limit, in your own repo.
+author: Alexandr Rešetňak
+branding:
+  icon: star
+  color: yellow
+
+inputs:
+  token:
+    description: Fine-grained personal access token with "Administration: read" and "Metadata: read" on the tracked repositories. Required, GITHUB_TOKEN cannot read traffic data.
+    required: true
+  github_token:
+    description: Token used to push the data branch. Defaults to the workflow token; the job needs "permissions: contents: write".
+    required: false
+    default: ${{ github.token }}
+  repos:
+    description: Repositories to track as owner/name, one per line. Defaults to the repository running the workflow.
+    required: false
+    default: ""
+  data_branch:
+    description: Orphan branch that stores the data. Created on first run.
+    required: false
+    default: openstars
+  data_path:
+    description: Directory inside the data branch.
+    required: false
+    default: data
+  report:
+    description: Generate README.md, badge.svg and sparkline.svg in the data branch.
+    required: false
+    default: "true"
+  releases:
+    description: Also record release asset download counts.
+    required: false
+    default: "false"
+  commit_message:
+    description: Commit message. "{date}" is replaced with the run date.
+    required: false
+    default: "openstars: {date}"
+  git_user_name:
+    description: Committer name for the data branch.
+    required: false
+    default: openstars[bot]
+  git_user_email:
+    description: Committer email for the data branch.
+    required: false
+    default: openstars[bot]@users.noreply.github.com
+
+outputs:
+  views_14d:
+    description: Views in the last 14 days for the first tracked repository.
+  clones_14d:
+    description: Clones in the last 14 days for the first tracked repository.
+  stars:
+    description: Current star count of the first tracked repository.
+  data_branch:
+    description: Name of the data branch.
+  changed:
+    description: "true" when this run committed new data.
+
+runs:
+  using: node20
+  main: dist/main.js

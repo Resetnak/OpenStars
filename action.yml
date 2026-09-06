@@ -63,5 +63,5 @@ outputs:
     description: Set to "true" when this run committed new data.
 
 runs:
-  using: node20
+  using: node24
   main: dist/main.js

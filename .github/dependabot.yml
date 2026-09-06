@@ -8,3 +8,7 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    ignore:
+      # TypeScript majors and @types/node beyond the runner's Node are reviewed by hand.
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]

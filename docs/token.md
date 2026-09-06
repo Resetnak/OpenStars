@@ -26,5 +26,5 @@ Done. The token is used only to call `api.github.com`; pushing the data branch u
 |---|---|
 | `token lacks "Administration: read"` | Edit the token, add Administration: Read-only, or add the missing repository to its repository access |
 | `token is invalid or expired` | Create a new token and update the secret |
-| `repository not found or the token has no access` | Check the `repos` spelling and the token's repository list |
+| `repository not found or the token has no access` | Check the `repos` spelling and the token's *Repository access* list. A private repository the token cannot see returns 404, not 403. Repositories created after the token must be added to it |
 | `git push failed … 403` | Add `permissions: contents: write` to the job |

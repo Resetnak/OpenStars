@@ -92,7 +92,7 @@ export function describeError(err: unknown, repo: string): string {
       case 403:
         return `${repo}: token lacks "Administration: read" on this repository. See ${DOCS_URL}#token`;
       case 404:
-        return `${repo}: repository not found or the token has no access to it.`;
+        return `${repo}: repository not found or the token has no access to it. For private repositories GitHub answers 404 when the token's "Repository access" list does not include this repository; edit the token and add it. See ${DOCS_URL}#token`;
       default:
         return `${repo}: ${err.message}`;
     }

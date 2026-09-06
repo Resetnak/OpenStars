@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 (unreleased)
+## 1.0.0 (2026-09-06)
 
 - Daily collection of views, clones, referrers, popular paths and repository metadata.
 - Optional release asset download counts (`releases: true`).

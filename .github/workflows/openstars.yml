@@ -19,3 +19,9 @@ jobs:
         with:
           token: ${{ secrets.OPENSTARS_TOKEN }}
           releases: "true"
+          repos: |
+            Resetnak/OpenStars
+            Resetnak/herdr-logbook
+            Resetnak/cooldeck
+            Resetnak/MakeView
+            Resetnak/domain-availability-skill

@@ -76,7 +76,7 @@ Badge for your main README:
 | `data_branch` | `openstars` | Orphan branch for the data |
 | `data_path` | `data` | Directory inside the branch |
 | `report` | `true` | Generate README.md, badge.svg, sparkline.svg |
-| `releases` | `false` | Also record release asset download counts |
+| `releases` | `false` | Also record release asset download counts (token needs Contents: read) |
 | `commit_message` | `openstars: {date}` | `{date}` is the run date |
 | `git_user_name` / `git_user_email` | `openstars[bot]` | Committer identity |
 

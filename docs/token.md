@@ -14,6 +14,7 @@ The token is read-only. It can see traffic numbers and repository metadata, noth
 6. **Repository permissions:**
    - **Administration: Read-only**
    - **Metadata: Read-only** (selected automatically)
+   - **Contents: Read-only** only if you set `releases: true` (release download counts live under Contents)
    Leave everything else at *No access*.
 7. **Generate token** and copy it. You will not see it again.
 8. In the repository that runs the workflow: **Settings → Secrets and variables → Actions → New repository secret**, name `OPENSTARS_TOKEN`, paste the token.
@@ -25,6 +26,7 @@ Done. The token is used only to call `api.github.com`; pushing the data branch u
 | Message | Fix |
 |---|---|
 | `token lacks "Administration: read"` | Edit the token, add Administration: Read-only, or add the missing repository to its repository access |
+| `token lacks "Contents: read", which "releases: true" needs` | Add Contents: Read-only to the token, or remove `releases: true`. Traffic data is still collected |
 | `token is invalid or expired` | Create a new token and update the secret |
 | `repository not found or the token has no access` | Check the `repos` spelling and the token's *Repository access* list. A private repository the token cannot see returns 404, not 403. Repositories created after the token must be added to it |
 | `git push failed … 403` | Add `permissions: contents: write` to the job |

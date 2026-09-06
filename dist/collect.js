@@ -8,7 +8,10 @@ export function describeError(err, repo) {
             case 401:
                 return `${repo}: token is invalid or expired. Create a new fine-grained token, see ${DOCS_URL}#token`;
             case 403:
-                return `${repo}: token lacks "Administration: read" on this repository. See ${DOCS_URL}#token`;
+                if (err.path.includes("/releases")) {
+                    return `${repo}: token lacks "Contents: read", which "releases: true" needs. Add it to the token or drop the option. (${err.message})`;
+                }
+                return `${repo}: token lacks "Administration: read" on this repository. See ${DOCS_URL}#token (${err.message})`;
             case 404:
                 return `${repo}: repository not found or the token has no access to it. For private repositories GitHub answers 404 when the token's "Repository access" list does not include this repository; edit the token and add it. See ${DOCS_URL}#token`;
             default:
@@ -21,14 +24,23 @@ export async function collect(token, repo, options) {
     const now = options.now ?? new Date();
     const base = `/repos/${repo}`;
     try {
-        const [views, clones, referrers, paths, meta, releases] = await Promise.all([
+        const [views, clones, referrers, paths, meta] = await Promise.all([
             ghGet(token, `${base}/traffic/views?per=day`),
             ghGet(token, `${base}/traffic/clones?per=day`),
             ghGet(token, `${base}/traffic/popular/referrers`),
             ghGet(token, `${base}/traffic/popular/paths`),
             ghGet(token, base),
-            options.releases ? ghGet(token, `${base}/releases?per_page=100`) : Promise.resolve(null),
         ]);
+        // Releases are optional and need an extra permission; never let them sink the traffic data.
+        let releases = null;
+        if (options.releases) {
+            try {
+                releases = await ghGet(token, `${base}/releases?per_page=100`);
+            }
+            catch (err) {
+                options.onWarning?.(describeError(err, repo));
+            }
+        }
         const snapshot = {
             repo,
             date: toDay(now.toISOString()),

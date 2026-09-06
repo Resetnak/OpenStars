@@ -39,7 +39,7 @@ async function run(): Promise<void> {
   const failures: string[] = [];
   for (const repo of repos) {
     try {
-      const snapshot = await collect(token, repo, { releases, now });
+      const snapshot = await collect(token, repo, { releases, now, onWarning: warning });
       snapshots.push(snapshot);
       info(`${repo}: ${snapshot.views.length} days of views, ${snapshot.referrers.length} referrers, ${formatInt(snapshot.meta.stars)} stars`);
     } catch (err) {

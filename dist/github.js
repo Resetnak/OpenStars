@@ -3,9 +3,11 @@ const MAX_ATTEMPTS = 3;
 const MAX_WAIT_MS = 60_000;
 export class GitHubError extends Error {
     status;
-    constructor(message, status) {
+    path;
+    constructor(message, status, path) {
         super(message);
         this.status = status;
+        this.path = path;
         this.name = "GitHubError";
     }
 }
@@ -26,7 +28,7 @@ export async function ghGet(token, path) {
         }
         catch (err) {
             if (attempt >= MAX_ATTEMPTS)
-                throw new GitHubError(`network error: ${err.message}`, 0);
+                throw new GitHubError(`network error: ${err.message}`, 0, path);
             await sleep(backoff(attempt));
             continue;
         }
@@ -39,7 +41,14 @@ export async function ghGet(token, path) {
             await sleep(Math.min(MAX_WAIT_MS, Math.max(backoff(attempt), retryAfter, reset || 0)));
             continue;
         }
-        throw new GitHubError(`HTTP ${res.status} for ${path}`, res.status);
+        let detail = "";
+        try {
+            detail = (await res.json()).message ?? "";
+        }
+        catch {
+            /* body was not JSON */
+        }
+        throw new GitHubError(`HTTP ${res.status} for ${path}${detail ? ` (${detail})` : ""}`, res.status, path);
     }
 }
 function backoff(attempt) {

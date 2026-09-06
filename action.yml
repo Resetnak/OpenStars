@@ -34,7 +34,7 @@ inputs:
     required: false
     default: "true"
   releases:
-    description: Also record release asset download counts.
+    description: Also record release asset download counts. The token additionally needs "Contents" read permission.
     required: false
     default: "false"
   commit_message:

@@ -6,6 +6,7 @@ export class GitHubError extends Error {
   constructor(
     message: string,
     readonly status: number,
+    readonly path: string,
   ) {
     super(message);
     this.name = "GitHubError";
@@ -28,7 +29,7 @@ export async function ghGet<T>(token: string, path: string): Promise<T> {
         },
       });
     } catch (err) {
-      if (attempt >= MAX_ATTEMPTS) throw new GitHubError(`network error: ${(err as Error).message}`, 0);
+      if (attempt >= MAX_ATTEMPTS) throw new GitHubError(`network error: ${(err as Error).message}`, 0, path);
       await sleep(backoff(attempt));
       continue;
     }
@@ -44,7 +45,13 @@ export async function ghGet<T>(token: string, path: string): Promise<T> {
       continue;
     }
 
-    throw new GitHubError(`HTTP ${res.status} for ${path}`, res.status);
+    let detail = "";
+    try {
+      detail = ((await res.json()) as { message?: string }).message ?? "";
+    } catch {
+      /* body was not JSON */
+    }
+    throw new GitHubError(`HTTP ${res.status} for ${path}${detail ? ` (${detail})` : ""}`, res.status, path);
   }
 }
 

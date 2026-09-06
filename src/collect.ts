@@ -90,7 +90,10 @@ export function describeError(err: unknown, repo: string): string {
       case 401:
         return `${repo}: token is invalid or expired. Create a new fine-grained token, see ${DOCS_URL}#token`;
       case 403:
-        return `${repo}: token lacks "Administration: read" on this repository. See ${DOCS_URL}#token`;
+        if (err.path.includes("/releases")) {
+          return `${repo}: token lacks "Contents: read", which "releases: true" needs. Add it to the token or drop the option. (${err.message})`;
+        }
+        return `${repo}: token lacks "Administration: read" on this repository. See ${DOCS_URL}#token (${err.message})`;
       case 404:
         return `${repo}: repository not found or the token has no access to it. For private repositories GitHub answers 404 when the token's "Repository access" list does not include this repository; edit the token and add it. See ${DOCS_URL}#token`;
       default:
@@ -103,19 +106,27 @@ export function describeError(err: unknown, repo: string): string {
 export async function collect(
   token: string,
   repo: string,
-  options: { releases: boolean; now?: Date },
+  options: { releases: boolean; now?: Date; onWarning?: (message: string) => void },
 ): Promise<Snapshot> {
   const now = options.now ?? new Date();
   const base = `/repos/${repo}`;
   try {
-    const [views, clones, referrers, paths, meta, releases] = await Promise.all([
+    const [views, clones, referrers, paths, meta] = await Promise.all([
       ghGet<ApiTraffic>(token, `${base}/traffic/views?per=day`),
       ghGet<ApiTraffic>(token, `${base}/traffic/clones?per=day`),
       ghGet<ApiReferrer[]>(token, `${base}/traffic/popular/referrers`),
       ghGet<ApiPath[]>(token, `${base}/traffic/popular/paths`),
       ghGet<ApiRepo>(token, base),
-      options.releases ? ghGet<ApiRelease[]>(token, `${base}/releases?per_page=100`) : Promise.resolve(null),
     ]);
+    // Releases are optional and need an extra permission; never let them sink the traffic data.
+    let releases: ApiRelease[] | null = null;
+    if (options.releases) {
+      try {
+        releases = await ghGet<ApiRelease[]>(token, `${base}/releases?per_page=100`);
+      } catch (err) {
+        options.onWarning?.(describeError(err, repo));
+      }
+    }
 
     const snapshot: Snapshot = {
       repo,

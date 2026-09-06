@@ -7,10 +7,14 @@ branding:
 
 inputs:
   token:
-    description: Fine-grained personal access token with "Administration: read" and "Metadata: read" on the tracked repositories. Required, GITHUB_TOKEN cannot read traffic data.
+    description: >-
+      Fine-grained personal access token with "Administration: read" and "Metadata: read"
+      on the tracked repositories. Required, GITHUB_TOKEN cannot read traffic data.
     required: true
   github_token:
-    description: Token used to push the data branch. Defaults to the workflow token; the job needs "permissions: contents: write".
+    description: >-
+      Token used to push the data branch. Defaults to the workflow token;
+      the job needs "permissions: contents: write".
     required: false
     default: ${{ github.token }}
   repos:
@@ -34,7 +38,7 @@ inputs:
     required: false
     default: "false"
   commit_message:
-    description: Commit message. "{date}" is replaced with the run date.
+    description: 'Commit message. "{date}" is replaced with the run date.'
     required: false
     default: "openstars: {date}"
   git_user_name:
@@ -56,7 +60,7 @@ outputs:
   data_branch:
     description: Name of the data branch.
   changed:
-    description: "true" when this run committed new data.
+    description: Set to "true" when this run committed new data.
 
 runs:
   using: node20

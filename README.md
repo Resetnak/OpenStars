@@ -4,7 +4,13 @@
 
 One workflow file. Every day the action reads views, clones, referrers, popular paths and star count from the GitHub API and commits them to an `openstars` branch as JSON and CSV. No server, no account, no telemetry. The data is yours, in git, forever.
 
-Live demo: this repository tracks itself, see the [`openstars` branch](../../tree/openstars).
+What it produces, straight from this repository's own `openstars` branch:
+
+![views · 30d](https://raw.githubusercontent.com/Resetnak/OpenStars/openstars/data/Resetnak/cooldeck/badge.svg)
+
+![30-day views](https://raw.githubusercontent.com/Resetnak/OpenStars/openstars/data/Resetnak/cooldeck/sparkline.svg)
+
+Full report with daily table, referrers and popular paths: [`openstars` branch](../../tree/openstars).
 
 ## Why
 
@@ -41,7 +47,18 @@ jobs:
 
 Run it once from the Actions tab (`workflow_dispatch`), then forget about it.
 
-### 3. What you get
+### 3. Images for your README
+
+After the first run, the branch contains a badge and a 30-day sparkline. Paste them into your main README, replacing `<owner>/<repo>`:
+
+```md
+[![views](https://raw.githubusercontent.com/<owner>/<repo>/openstars/data/<owner>/<repo>/badge.svg)](https://github.com/Resetnak/openstars)
+![30-day views](https://raw.githubusercontent.com/<owner>/<repo>/openstars/data/<owner>/<repo>/sparkline.svg)
+```
+
+Both are regenerated every day. The link on the badge is optional; it is how other maintainers find this action.
+
+## What you get
 
 ```
 openstars/                      ← orphan branch, main history stays clean
@@ -49,7 +66,7 @@ openstars/                      ← orphan branch, main history stays clean
 └── data/<owner>/<repo>/
     ├── traffic.json            ← full history, schema below
     ├── traffic.csv             ← one row per day, spreadsheet-ready
-    ├── badge.svg               ← "views · 30d" badge for your README
+    ├── badge.svg               ← "views · 30d" badge
     └── sparkline.svg           ← 30-day views curve
 ```
 
@@ -60,11 +77,7 @@ date,views,unique_visitors,clones,unique_cloners,stars,forks,watchers,subscriber
 2026-09-05,142,97,11,8,1203,44,1203,31,12
 ```
 
-Badge for your main README:
-
-```md
-![views](https://raw.githubusercontent.com/<owner>/<repo>/openstars/data/<owner>/<repo>/badge.svg)
-```
+Each run also writes a short table of the last 7 days into the Actions job summary, so you see the numbers without leaving the workflow page.
 
 ## Inputs
 

@@ -8,3 +8,7 @@
 - Multi-repository tracking from a single workflow.
 - Idempotent merges: GitHub's revisions are applied, unchanged data produces no commit.
 - Zero runtime dependencies.
+
+## Unreleased
+
+- `scripts/seed.mjs`: seed the data branch from a CSV in the OpenStars/RepoMeter format.

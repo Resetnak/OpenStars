@@ -133,7 +133,7 @@ No. GitHub revises traffic counts for a few days after the fact. OpenStars overw
 GitHub disables scheduled workflows in repositories with no activity for 60 days and emails you about it. Re-enable it from the Actions tab. Data collection resumes from the next run; a gap longer than 14 days cannot be recovered, GitHub no longer has it either.
 
 **I already have older data somewhere else.**
-Any CSV with the OpenStars header (RepoMeter's export, for example) can seed the branch: check out `openstars`, run `node scripts/seed.mjs owner/name file.csv`, commit. Existing days are kept; the CSV only fills gaps.
+Any CSV with the OpenStars header (RepoMeter's export, for example) can seed the branch: from a checkout of `main`, run `node scripts/seed.mjs owner/name file.csv path/to/openstars-checkout/data` (a `git worktree` of the data branch works well), then commit there. Existing days are kept; the CSV only fills gaps.
 
 **How do I delete the data?**
 Delete the `openstars` branch. Nothing else exists.

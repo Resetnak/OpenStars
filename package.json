@@ -1,6 +1,6 @@
 {
   "name": "openstars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "description": "GitHub Action that keeps your repository traffic history (views, clones, referrers, stars) beyond GitHub's 14-day limit, in your own repo.",

@@ -1,7 +1,8 @@
 # Changelog
 
-## Unreleased
+## 1.0.1 (2026-09-07)
 
+- Marketplace name is now "OpenStars Traffic History"; `openstars` alone collides with an existing GitHub organization. The `uses:` path is unchanged.
 - `scripts/seed.mjs`: seed the data branch from a CSV in the OpenStars/RepoMeter format.
 
 ## 1.0.0 (2026-09-06)

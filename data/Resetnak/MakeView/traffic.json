@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "Resetnak/MakeView",
-  "generator": "openstars/1.0.0+seed",
+  "generator": "openstars/1.0.0",
   "first_collected": "2026-07-25",
-  "last_collected_at": "2026-09-06T10:21:43.879Z",
+  "last_collected_at": "2026-09-07T08:15:21.068Z",
   "daily": [
     {
       "date": "2026-07-25",
@@ -576,16 +576,37 @@
       "subscribers": 0,
       "open_issues": 0,
       "size_kb": 377
+    },
+    {
+      "date": "2026-09-07",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 377
     }
   ],
   "referrers": {
-    "2026-09-06": []
+    "2026-09-06": [],
+    "2026-09-07": []
   },
   "paths": {
-    "2026-09-06": []
+    "2026-09-06": [],
+    "2026-09-07": []
   },
   "releases": {
     "2026-09-06": [
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ],
+    "2026-09-07": [
       {
         "tag": "v1.0.0",
         "downloads": 0

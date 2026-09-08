@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "Resetnak/cooldeck",
-  "generator": "openstars/1.0.0",
+  "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-09-07T08:15:21.068Z",
+  "last_collected_at": "2026-09-08T08:03:22.098Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -579,10 +579,10 @@
     },
     {
       "date": "2026-09-06",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 6,
+      "views_uniques": 2,
+      "clones": 13,
+      "clones_uniques": 7,
       "stars": 23,
       "forks": 1,
       "watchers": 23,
@@ -592,6 +592,19 @@
     },
     {
       "date": "2026-09-07",
+      "views": 11,
+      "views_uniques": 6,
+      "clones": 3,
+      "clones_uniques": 2,
+      "stars": 23,
+      "forks": 1,
+      "watchers": 23,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": 20751
+    },
+    {
+      "date": "2026-09-08",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -677,6 +690,58 @@
         "referrer": "reddit.com",
         "count": 5,
         "uniques": 5
+      },
+      {
+        "referrer": "Google",
+        "count": 4,
+        "uniques": 4
+      },
+      {
+        "referrer": "kagi.com",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "referrer": "vuink.com",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "referrer": "com.reddit.frontpage",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "referrer": "Bing",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "hn.nugo.cc",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-09-08": [
+      {
+        "referrer": "terminaltrove.com",
+        "count": 36,
+        "uniques": 23
+      },
+      {
+        "referrer": "github.com",
+        "count": 26,
+        "uniques": 6
+      },
+      {
+        "referrer": "news.ycombinator.com",
+        "count": 11,
+        "uniques": 8
+      },
+      {
+        "referrer": "reddit.com",
+        "count": 7,
+        "uniques": 7
       },
       {
         "referrer": "Google",
@@ -834,6 +899,68 @@
         "count": 2,
         "uniques": 2
       }
+    ],
+    "2026-09-08": [
+      {
+        "path": "/Resetnak/cooldeck",
+        "title": "Overview",
+        "count": 144,
+        "uniques": 90
+      },
+      {
+        "path": "/Resetnak/cooldeck/stargazers",
+        "title": "/stargazers",
+        "count": 11,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/pulls",
+        "title": "/pulls",
+        "count": 7,
+        "uniques": 4
+      },
+      {
+        "path": "/Resetnak/cooldeck/releases/tag/v0.5.0",
+        "title": "/releases/tag/v0.5.0",
+        "count": 4,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/CONTRIBUTING.md",
+        "title": "/blob/main/CONTRIBUTING.md",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/go.mod",
+        "title": "/blob/main/go.mod",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/tree/main/internal",
+        "title": "/tree/main/internal",
+        "count": 3,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/actions",
+        "title": "/actions",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/.golangci.yml",
+        "title": "/blob/main/.golangci.yml",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/CHANGELOG.md",
+        "title": "/blob/main/CHANGELOG.md",
+        "count": 2,
+        "uniques": 2
+      }
     ]
   },
   "releases": {
@@ -895,6 +1022,60 @@
       {
         "tag": "v0.6.0",
         "downloads": 1
+      },
+      {
+        "tag": "v0.5.2",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.5.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.5.0",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.4.0",
+        "downloads": 6
+      },
+      {
+        "tag": "v0.3.2",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.0",
+        "downloads": 0
+      },
+      {
+        "tag": "v0.2.1",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.2.0",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.2",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.1.1",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.0",
+        "downloads": 13
+      }
+    ],
+    "2026-09-08": [
+      {
+        "tag": "v0.6.0",
+        "downloads": 7
       },
       {
         "tag": "v0.5.2",

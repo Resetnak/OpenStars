@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repo": "Resetnak/domain-availability-skill",
-  "generator": "openstars/1.0.0",
+  "generator": "openstars/1.0.1",
   "first_collected": "2026-07-31",
-  "last_collected_at": "2026-09-07T08:15:21.068Z",
+  "last_collected_at": "2026-09-08T08:03:22.098Z",
   "daily": [
     {
       "date": "2026-07-31",
@@ -490,8 +490,8 @@
       "date": "2026-09-06",
       "views": 0,
       "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "clones": 25,
+      "clones_uniques": 25,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -501,6 +501,19 @@
     },
     {
       "date": "2026-09-07",
+      "views": 1,
+      "views_uniques": 1,
+      "clones": 25,
+      "clones_uniques": 25,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 8
+    },
+    {
+      "date": "2026-09-08",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -525,6 +538,13 @@
       {
         "referrer": "github.com",
         "count": 4,
+        "uniques": 1
+      }
+    ],
+    "2026-09-08": [
+      {
+        "referrer": "github.com",
+        "count": 5,
         "uniques": 1
       }
     ]
@@ -557,10 +577,25 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-09-08": [
+      {
+        "path": "/Resetnak/domain-availability-skill",
+        "title": "Overview",
+        "count": 6,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/domain-availability-skill/tree/main/skills/checking-domain-availability",
+        "title": "/tree/main/skills/checking-domain-availability",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
     "2026-09-06": [],
-    "2026-09-07": []
+    "2026-09-07": [],
+    "2026-09-08": []
   }
 }

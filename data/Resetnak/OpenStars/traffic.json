@@ -3,7 +3,7 @@
   "repo": "Resetnak/OpenStars",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-09-06",
-  "last_collected_at": "2026-09-09T08:06:39.641Z",
+  "last_collected_at": "2026-09-10T08:06:14.605Z",
   "daily": [
     {
       "date": "2026-08-24",
@@ -204,8 +204,8 @@
       "date": "2026-09-08",
       "views": 0,
       "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "clones": 3,
+      "clones_uniques": 2,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -217,6 +217,19 @@
       "date": "2026-09-09",
       "views": 0,
       "views_uniques": 0,
+      "clones": 4,
+      "clones_uniques": 3,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 80
+    },
+    {
+      "date": "2026-09-10",
+      "views": 0,
+      "views_uniques": 0,
       "clones": 0,
       "clones_uniques": 0,
       "stars": 0,
@@ -224,7 +237,7 @@
       "watchers": 0,
       "subscribers": 0,
       "open_issues": 0,
-      "size_kb": 80
+      "size_kb": 86
     }
   ],
   "referrers": {
@@ -238,6 +251,13 @@
       }
     ],
     "2026-09-09": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "2026-09-10": [
       {
         "referrer": "github.com",
         "count": 3,
@@ -371,6 +391,68 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-09-10": [
+      {
+        "path": "/Resetnak/OpenStars",
+        "title": "Overview",
+        "count": 9,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/OpenStars/releases/new",
+        "title": "/releases/new",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/openstars",
+        "title": "Overview",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/OpenStars/blob/openstars/data/Resetnak/OpenStars/sparkline.svg",
+        "title": "/blob/openstars/data/Resetnak/OpenStars/sparkline.svg",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/OpenStars/branches",
+        "title": "/branches",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/OpenStars/commit/eb1d7b1a34eb077254e05db4d876900a85794ce7",
+        "title": "/commit/eb1d7b1a34eb077254e05db4d876900a85794ce7",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/OpenStars/releases/edit/v1.0.0",
+        "title": "/releases/edit/v1.0.0",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/OpenStars/releases/edit/v1.0.1",
+        "title": "/releases/edit/v1.0.1",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/OpenStars/releases/tag/v1.0.1",
+        "title": "/releases/tag/v1.0.1",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/OpenStars/tree/main/.github",
+        "title": "/tree/main/.github",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -397,6 +479,16 @@
       }
     ],
     "2026-09-09": [
+      {
+        "tag": "v1.0.1",
+        "downloads": 0
+      },
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ],
+    "2026-09-10": [
       {
         "tag": "v1.0.1",
         "downloads": 0

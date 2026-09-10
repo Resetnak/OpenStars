@@ -3,7 +3,7 @@
   "repo": "Resetnak/herdr-logbook",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-09-09T08:06:39.641Z",
+  "last_collected_at": "2026-09-10T08:06:14.605Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -605,10 +605,10 @@
     },
     {
       "date": "2026-09-08",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 6,
+      "views_uniques": 6,
+      "clones": 3,
+      "clones_uniques": 3,
       "stars": 12,
       "forks": 2,
       "watchers": 12,
@@ -618,6 +618,19 @@
     },
     {
       "date": "2026-09-09",
+      "views": 4,
+      "views_uniques": 4,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": 12,
+      "forks": 2,
+      "watchers": 12,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 7110
+    },
+    {
+      "date": "2026-09-10",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -715,6 +728,23 @@
       },
       {
         "referrer": "DuckDuckGo",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-09-10": [
+      {
+        "referrer": "github.com",
+        "count": 19,
+        "uniques": 3
+      },
+      {
+        "referrer": "Google",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "referrer": "Bing",
         "count": 1,
         "uniques": 1
       }
@@ -968,6 +998,68 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-09-10": [
+      {
+        "path": "/Resetnak/herdr-logbook",
+        "title": "Overview",
+        "count": 85,
+        "uniques": 63
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/discussions/18",
+        "title": "/discussions/18",
+        "count": 7,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/discussions",
+        "title": "/discussions",
+        "count": 6,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/assets/demo.gif",
+        "title": "/blob/main/assets/demo.gif",
+        "count": 4,
+        "uniques": 4
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/stargazers",
+        "title": "/stargazers",
+        "count": 3,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/config.example.toml",
+        "title": "/blob/main/config.example.toml",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/docs/herdr-compatibility.md",
+        "title": "/blob/main/docs/herdr-compatibility.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/commit/a5d7373109a230a5d195cab226b36458115db3ec",
+        "title": "/commit/a5d7373109a230a5d195cab226b36458115db3ec",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/graphs/contributors",
+        "title": "/graphs/contributors",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/issues",
+        "title": "/issues",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -1110,6 +1202,52 @@
       }
     ],
     "2026-09-09": [
+      {
+        "tag": "v0.0.13",
+        "downloads": 42
+      },
+      {
+        "tag": "v0.0.12",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.11",
+        "downloads": 8
+      },
+      {
+        "tag": "v0.0.9",
+        "downloads": 46
+      },
+      {
+        "tag": "v0.0.8",
+        "downloads": 18
+      },
+      {
+        "tag": "v0.0.7",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.0.6",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.5",
+        "downloads": 2
+      },
+      {
+        "tag": "v0.0.4",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.3",
+        "downloads": 10
+      },
+      {
+        "tag": "v0.0.2",
+        "downloads": 5
+      }
+    ],
+    "2026-09-10": [
       {
         "tag": "v0.0.13",
         "downloads": 42

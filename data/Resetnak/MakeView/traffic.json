@@ -3,7 +3,7 @@
   "repo": "Resetnak/MakeView",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-25",
-  "last_collected_at": "2026-09-16T08:33:14.184Z",
+  "last_collected_at": "2026-09-17T08:37:34.741Z",
   "daily": [
     {
       "date": "2026-07-25",
@@ -683,8 +683,8 @@
     },
     {
       "date": "2026-09-15",
-      "views": 0,
-      "views_uniques": 0,
+      "views": 1,
+      "views_uniques": 1,
       "clones": 0,
       "clones_uniques": 0,
       "stars": 0,
@@ -696,6 +696,19 @@
     },
     {
       "date": "2026-09-16",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 377
+    },
+    {
+      "date": "2026-09-17",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -719,7 +732,8 @@
     "2026-09-13": [],
     "2026-09-14": [],
     "2026-09-15": [],
-    "2026-09-16": []
+    "2026-09-16": [],
+    "2026-09-17": []
   },
   "paths": {
     "2026-09-06": [],
@@ -732,7 +746,15 @@
     "2026-09-13": [],
     "2026-09-14": [],
     "2026-09-15": [],
-    "2026-09-16": []
+    "2026-09-16": [],
+    "2026-09-17": [
+      {
+        "path": "/Resetnak/MakeView/blob/4d5e2c32370f51b20cba2faeecf584dc7f4a8a54/src/CredentialPhrases.php",
+        "title": "/blob/4d5e2c32370f51b20cba2faeecf584dc7f4a8a54/src/CredentialPhrases.php",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
   },
   "releases": {
     "2026-09-06": [
@@ -796,6 +818,12 @@
       }
     ],
     "2026-09-16": [
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ],
+    "2026-09-17": [
       {
         "tag": "v1.0.0",
         "downloads": 0

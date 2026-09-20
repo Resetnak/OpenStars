@@ -3,7 +3,7 @@
   "repo": "Resetnak/MakeView",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-25",
-  "last_collected_at": "2026-09-19T08:01:00.115Z",
+  "last_collected_at": "2026-09-20T08:33:45.499Z",
   "daily": [
     {
       "date": "2026-07-25",
@@ -745,6 +745,19 @@
       "subscribers": 0,
       "open_issues": 0,
       "size_kb": 377
+    },
+    {
+      "date": "2026-09-20",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 377
     }
   ],
   "referrers": {
@@ -761,7 +774,8 @@
     "2026-09-16": [],
     "2026-09-17": [],
     "2026-09-18": [],
-    "2026-09-19": []
+    "2026-09-19": [],
+    "2026-09-20": []
   },
   "paths": {
     "2026-09-06": [],
@@ -792,6 +806,14 @@
       }
     ],
     "2026-09-19": [
+      {
+        "path": "/Resetnak/MakeView/blob/4d5e2c32370f51b20cba2faeecf584dc7f4a8a54/src/CredentialPhrases.php",
+        "title": "/blob/4d5e2c32370f51b20cba2faeecf584dc7f4a8a54/src/CredentialPhrases.php",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-09-20": [
       {
         "path": "/Resetnak/MakeView/blob/4d5e2c32370f51b20cba2faeecf584dc7f4a8a54/src/CredentialPhrases.php",
         "title": "/blob/4d5e2c32370f51b20cba2faeecf584dc7f4a8a54/src/CredentialPhrases.php",
@@ -880,6 +902,12 @@
       }
     ],
     "2026-09-19": [
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ],
+    "2026-09-20": [
       {
         "tag": "v1.0.0",
         "downloads": 0

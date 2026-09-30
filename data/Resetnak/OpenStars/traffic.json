@@ -3,7 +3,7 @@
   "repo": "Resetnak/OpenStars",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-09-06",
-  "last_collected_at": "2026-09-29T09:47:40.734Z",
+  "last_collected_at": "2026-09-30T09:39:49.502Z",
   "daily": [
     {
       "date": "2026-08-24",
@@ -412,8 +412,8 @@
       "date": "2026-09-24",
       "views": 0,
       "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "clones": 3,
+      "clones_uniques": 2,
       "stars": 1,
       "forks": 0,
       "watchers": 1,
@@ -425,8 +425,8 @@
       "date": "2026-09-25",
       "views": 0,
       "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "clones": 4,
+      "clones_uniques": 3,
       "stars": 1,
       "forks": 0,
       "watchers": 1,
@@ -438,8 +438,8 @@
       "date": "2026-09-26",
       "views": 0,
       "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "clones": 12,
+      "clones_uniques": 7,
       "stars": 1,
       "forks": 0,
       "watchers": 1,
@@ -451,8 +451,8 @@
       "date": "2026-09-27",
       "views": 0,
       "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "clones": 20,
+      "clones_uniques": 12,
       "stars": 1,
       "forks": 0,
       "watchers": 1,
@@ -464,8 +464,8 @@
       "date": "2026-09-28",
       "views": 0,
       "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "clones": 8,
+      "clones_uniques": 5,
       "stars": 1,
       "forks": 0,
       "watchers": 1,
@@ -477,6 +477,19 @@
       "date": "2026-09-29",
       "views": 0,
       "views_uniques": 0,
+      "clones": 4,
+      "clones_uniques": 3,
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 217
+    },
+    {
+      "date": "2026-09-30",
+      "views": 0,
+      "views_uniques": 0,
       "clones": 0,
       "clones_uniques": 0,
       "stars": 1,
@@ -484,7 +497,7 @@
       "watchers": 1,
       "subscribers": 0,
       "open_issues": 0,
-      "size_kb": 217
+      "size_kb": 223
     }
   ],
   "referrers": {
@@ -638,6 +651,13 @@
       }
     ],
     "2026-09-29": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 2
+      }
+    ],
+    "2026-09-30": [
       {
         "referrer": "github.com",
         "count": 2,
@@ -1567,6 +1587,14 @@
         "count": 3,
         "uniques": 3
       }
+    ],
+    "2026-09-30": [
+      {
+        "path": "/Resetnak/OpenStars",
+        "title": "Overview",
+        "count": 3,
+        "uniques": 3
+      }
     ]
   },
   "releases": {
@@ -1793,6 +1821,16 @@
       }
     ],
     "2026-09-29": [
+      {
+        "tag": "v1.0.1",
+        "downloads": 0
+      },
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ],
+    "2026-09-30": [
       {
         "tag": "v1.0.1",
         "downloads": 0

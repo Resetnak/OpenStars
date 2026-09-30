@@ -3,7 +3,7 @@
   "repo": "Resetnak/herdr-logbook",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-09-29T09:47:40.734Z",
+  "last_collected_at": "2026-09-30T09:39:49.502Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -813,10 +813,10 @@
     },
     {
       "date": "2026-09-24",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 14,
+      "views_uniques": 8,
+      "clones": 4,
+      "clones_uniques": 3,
       "stars": 12,
       "forks": 2,
       "watchers": 12,
@@ -826,10 +826,10 @@
     },
     {
       "date": "2026-09-25",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 4,
+      "views_uniques": 4,
+      "clones": 28,
+      "clones_uniques": 17,
       "stars": 12,
       "forks": 2,
       "watchers": 12,
@@ -839,10 +839,10 @@
     },
     {
       "date": "2026-09-26",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 6,
+      "views_uniques": 6,
+      "clones": 4,
+      "clones_uniques": 4,
       "stars": 12,
       "forks": 2,
       "watchers": 12,
@@ -852,10 +852,10 @@
     },
     {
       "date": "2026-09-27",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 4,
+      "views_uniques": 2,
+      "clones": 4,
+      "clones_uniques": 3,
       "stars": 12,
       "forks": 2,
       "watchers": 12,
@@ -865,6 +865,19 @@
     },
     {
       "date": "2026-09-28",
+      "views": 6,
+      "views_uniques": 5,
+      "clones": 6,
+      "clones_uniques": 5,
+      "stars": 12,
+      "forks": 2,
+      "watchers": 12,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 7130
+    },
+    {
+      "date": "2026-09-29",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -877,7 +890,7 @@
       "size_kb": 7130
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -1277,6 +1290,28 @@
         "referrer": "github.com",
         "count": 2,
         "uniques": 2
+      },
+      {
+        "referrer": "DuckDuckGo",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-09-30": [
+      {
+        "referrer": "Google",
+        "count": 11,
+        "uniques": 9
+      },
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "referrer": "Bing",
+        "count": 1,
+        "uniques": 1
       },
       {
         "referrer": "DuckDuckGo",
@@ -2425,6 +2460,68 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-09-30": [
+      {
+        "path": "/Resetnak/herdr-logbook",
+        "title": "Overview",
+        "count": 65,
+        "uniques": 55
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/assets/demo.gif",
+        "title": "/blob/main/assets/demo.gif",
+        "count": 4,
+        "uniques": 4
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/pulls",
+        "title": "/pulls",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/discussions",
+        "title": "/discussions",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/assets/digest.gif",
+        "title": "/blob/main/assets/digest.gif",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/.goreleaser.yaml",
+        "title": "/blob/main/.goreleaser.yaml",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/AGENTS.md",
+        "title": "/blob/main/AGENTS.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/CLAUDE.md",
+        "title": "/blob/main/CLAUDE.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/cassette.tape",
+        "title": "/blob/main/cassette.tape",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/docs/herdr-compatibility.md",
+        "title": "/blob/main/docs/herdr-compatibility.md",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -3487,6 +3584,52 @@
       }
     ],
     "2026-09-29": [
+      {
+        "tag": "v0.0.13",
+        "downloads": 76
+      },
+      {
+        "tag": "v0.0.12",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.11",
+        "downloads": 8
+      },
+      {
+        "tag": "v0.0.9",
+        "downloads": 46
+      },
+      {
+        "tag": "v0.0.8",
+        "downloads": 18
+      },
+      {
+        "tag": "v0.0.7",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.0.6",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.5",
+        "downloads": 2
+      },
+      {
+        "tag": "v0.0.4",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.3",
+        "downloads": 10
+      },
+      {
+        "tag": "v0.0.2",
+        "downloads": 5
+      }
+    ],
+    "2026-09-30": [
       {
         "tag": "v0.0.13",
         "downloads": 76

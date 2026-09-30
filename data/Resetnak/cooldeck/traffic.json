@@ -3,7 +3,7 @@
   "repo": "Resetnak/cooldeck",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-09-29T09:47:40.734Z",
+  "last_collected_at": "2026-09-30T09:39:49.502Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -813,10 +813,10 @@
     },
     {
       "date": "2026-09-24",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 9,
+      "views_uniques": 5,
+      "clones": 3,
+      "clones_uniques": 3,
       "stars": 26,
       "forks": 1,
       "watchers": 26,
@@ -826,10 +826,10 @@
     },
     {
       "date": "2026-09-25",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 4,
+      "views_uniques": 4,
+      "clones": 30,
+      "clones_uniques": 10,
       "stars": 26,
       "forks": 1,
       "watchers": 26,
@@ -839,10 +839,10 @@
     },
     {
       "date": "2026-09-26",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 10,
+      "views_uniques": 5,
+      "clones": 3,
+      "clones_uniques": 3,
       "stars": 28,
       "forks": 1,
       "watchers": 28,
@@ -852,10 +852,10 @@
     },
     {
       "date": "2026-09-27",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 16,
+      "views_uniques": 9,
+      "clones": 1,
+      "clones_uniques": 1,
       "stars": 28,
       "forks": 1,
       "watchers": 28,
@@ -865,10 +865,10 @@
     },
     {
       "date": "2026-09-28",
-      "views": 0,
-      "views_uniques": 0,
-      "clones": 0,
-      "clones_uniques": 0,
+      "views": 20,
+      "views_uniques": 6,
+      "clones": 5,
+      "clones_uniques": 4,
       "stars": 28,
       "forks": 1,
       "watchers": 28,
@@ -888,6 +888,19 @@
       "subscribers": 0,
       "open_issues": 2,
       "size_kb": 20752
+    },
+    {
+      "date": "2026-09-30",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 29,
+      "forks": 1,
+      "watchers": 29,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": 20775
     }
   ],
   "referrers": {
@@ -1805,6 +1818,38 @@
       },
       {
         "referrer": "reddit.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-09-30": [
+      {
+        "referrer": "github.com",
+        "count": 9,
+        "uniques": 4
+      },
+      {
+        "referrer": "old.reddit.com",
+        "count": 5,
+        "uniques": 1
+      },
+      {
+        "referrer": "terminaltrove.com",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "reddit.com",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "yandex.ru",
         "count": 1,
         "uniques": 1
       }
@@ -3298,6 +3343,68 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-09-30": [
+      {
+        "path": "/Resetnak/cooldeck",
+        "title": "Overview",
+        "count": 55,
+        "uniques": 19
+      },
+      {
+        "path": "/Resetnak/cooldeck/pulls",
+        "title": "/pulls",
+        "count": 21,
+        "uniques": 7
+      },
+      {
+        "path": "/Resetnak/cooldeck/discussions",
+        "title": "/discussions",
+        "count": 21,
+        "uniques": 6
+      },
+      {
+        "path": "/Resetnak/cooldeck/issues",
+        "title": "/issues",
+        "count": 18,
+        "uniques": 5
+      },
+      {
+        "path": "/Resetnak/cooldeck/releases/tag/v0.6.0",
+        "title": "/releases/tag/v0.6.0",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/commit/14c62dac46e76df0585b645b317a908133a0654d",
+        "title": "/commit/14c62dac46e76df0585b645b317a908133a0654d",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/commit/dffae37b61b9970c2082056bf48ebe3dc14aa4d9",
+        "title": "/commit/dffae37b61b9970c2082056bf48ebe3dc14aa4d9",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/assets/demo.gif",
+        "title": "/blob/main/assets/demo.gif",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/47722f13f6bc39a7b438e6a9f8d6e984a2660ad8/internal/logging/redact.go",
+        "title": "/blob/47722f13f6bc39a7b438e6a9f8d6e984a2660ad8/internal/logging/redact.go",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/LICENSE",
+        "title": "/blob/main/LICENSE",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -4544,6 +4651,60 @@
       }
     ],
     "2026-09-29": [
+      {
+        "tag": "v0.6.0",
+        "downloads": 20
+      },
+      {
+        "tag": "v0.5.2",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.5.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.5.0",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.4.0",
+        "downloads": 6
+      },
+      {
+        "tag": "v0.3.2",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.0",
+        "downloads": 0
+      },
+      {
+        "tag": "v0.2.1",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.2.0",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.2",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.1.1",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.0",
+        "downloads": 13
+      }
+    ],
+    "2026-09-30": [
       {
         "tag": "v0.6.0",
         "downloads": 20

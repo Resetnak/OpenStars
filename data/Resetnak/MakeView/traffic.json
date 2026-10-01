@@ -3,7 +3,7 @@
   "repo": "Resetnak/MakeView",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-25",
-  "last_collected_at": "2026-09-30T09:39:49.502Z",
+  "last_collected_at": "2026-10-01T10:05:19.529Z",
   "daily": [
     {
       "date": "2026-07-25",
@@ -888,6 +888,19 @@
       "subscribers": 0,
       "open_issues": 0,
       "size_kb": 377
+    },
+    {
+      "date": "2026-10-01",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 377
     }
   ],
   "referrers": {
@@ -915,7 +928,8 @@
     "2026-09-27": [],
     "2026-09-28": [],
     "2026-09-29": [],
-    "2026-09-30": []
+    "2026-09-30": [],
+    "2026-10-01": []
   },
   "paths": {
     "2026-09-06": [],
@@ -1040,7 +1054,8 @@
         "count": 1,
         "uniques": 1
       }
-    ]
+    ],
+    "2026-10-01": []
   },
   "releases": {
     "2026-09-06": [
@@ -1188,6 +1203,12 @@
       }
     ],
     "2026-09-30": [
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ],
+    "2026-10-01": [
       {
         "tag": "v1.0.0",
         "downloads": 0

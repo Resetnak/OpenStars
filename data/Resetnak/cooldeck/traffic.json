@@ -3,7 +3,7 @@
   "repo": "Resetnak/cooldeck",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-10-02T09:43:08.569Z",
+  "last_collected_at": "2026-10-03T09:06:49.830Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -917,6 +917,19 @@
     },
     {
       "date": "2026-10-02",
+      "views": 8,
+      "views_uniques": 4,
+      "clones": 5,
+      "clones_uniques": 5,
+      "stars": 29,
+      "forks": 1,
+      "watchers": 29,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": 20775
+    },
+    {
+      "date": "2026-10-03",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -1935,6 +1948,38 @@
       },
       {
         "referrer": "reddit.com",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "yandex.ru",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-10-03": [
+      {
+        "referrer": "github.com",
+        "count": 9,
+        "uniques": 4
+      },
+      {
+        "referrer": "old.reddit.com",
+        "count": 3,
+        "uniques": 1
+      },
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "reddit.com",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "terminaltrove.com",
         "count": 1,
         "uniques": 1
       },
@@ -3619,6 +3664,68 @@
         "count": 2,
         "uniques": 1
       }
+    ],
+    "2026-10-03": [
+      {
+        "path": "/Resetnak/cooldeck",
+        "title": "Overview",
+        "count": 56,
+        "uniques": 21
+      },
+      {
+        "path": "/Resetnak/cooldeck/discussions",
+        "title": "/discussions",
+        "count": 27,
+        "uniques": 7
+      },
+      {
+        "path": "/Resetnak/cooldeck/pulls",
+        "title": "/pulls",
+        "count": 21,
+        "uniques": 7
+      },
+      {
+        "path": "/Resetnak/cooldeck/issues",
+        "title": "/issues",
+        "count": 15,
+        "uniques": 6
+      },
+      {
+        "path": "/Resetnak/cooldeck/releases/tag/v0.6.0",
+        "title": "/releases/tag/v0.6.0",
+        "count": 4,
+        "uniques": 4
+      },
+      {
+        "path": "/Resetnak/cooldeck/commit/dffae37b61b9970c2082056bf48ebe3dc14aa4d9",
+        "title": "/commit/dffae37b61b9970c2082056bf48ebe3dc14aa4d9",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/pulse",
+        "title": "/pulse",
+        "count": 3,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/commit/14c62dac46e76df0585b645b317a908133a0654d",
+        "title": "/commit/14c62dac46e76df0585b645b317a908133a0654d",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/discussions/categories/general",
+        "title": "/discussions/categories/general",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/assets/demo.gif",
+        "title": "/blob/main/assets/demo.gif",
+        "count": 2,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -5030,6 +5137,60 @@
       {
         "tag": "v0.6.0",
         "downloads": 21
+      },
+      {
+        "tag": "v0.5.2",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.5.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.5.0",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.4.0",
+        "downloads": 6
+      },
+      {
+        "tag": "v0.3.2",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.0",
+        "downloads": 0
+      },
+      {
+        "tag": "v0.2.1",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.2.0",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.2",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.1.1",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.0",
+        "downloads": 13
+      }
+    ],
+    "2026-10-03": [
+      {
+        "tag": "v0.6.0",
+        "downloads": 22
       },
       {
         "tag": "v0.5.2",

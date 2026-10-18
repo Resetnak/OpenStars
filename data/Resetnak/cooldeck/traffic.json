@@ -3,7 +3,7 @@
   "repo": "Resetnak/cooldeck",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-10-17T07:44:54.642Z",
+  "last_collected_at": "2026-10-18T07:59:27.160Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -1112,6 +1112,19 @@
     },
     {
       "date": "2026-10-17",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 30,
+      "forks": 1,
+      "watchers": 30,
+      "subscribers": 0,
+      "open_issues": 2,
+      "size_kb": 20775
+    },
+    {
+      "date": "2026-10-18",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -2488,6 +2501,23 @@
       }
     ],
     "2026-10-17": [
+      {
+        "referrer": "reddit.com",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "referrer": "terminaltrove.com",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-10-18": [
       {
         "referrer": "reddit.com",
         "count": 3,
@@ -5109,6 +5139,68 @@
         "count": 2,
         "uniques": 2
       }
+    ],
+    "2026-10-18": [
+      {
+        "path": "/Resetnak/cooldeck",
+        "title": "Overview",
+        "count": 38,
+        "uniques": 16
+      },
+      {
+        "path": "/Resetnak/cooldeck/discussions",
+        "title": "/discussions",
+        "count": 34,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/pulls",
+        "title": "/pulls",
+        "count": 15,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/issues",
+        "title": "/issues",
+        "count": 11,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/social.tape",
+        "title": "/blob/main/social.tape",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/assets/banner.png",
+        "title": "/blob/main/assets/banner.png",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/docs/troubleshooting.md",
+        "title": "/blob/main/docs/troubleshooting.md",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/commit/9104a62e211e73d12baaff4502925f0df9fa9184",
+        "title": "/commit/9104a62e211e73d12baaff4502925f0df9fa9184",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/discussions/categories/announcements",
+        "title": "/discussions/categories/announcements",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/cooldeck/discussions/categories/polls",
+        "title": "/discussions/categories/polls",
+        "count": 2,
+        "uniques": 2
+      }
     ]
   },
   "releases": {
@@ -7327,6 +7419,60 @@
       }
     ],
     "2026-10-17": [
+      {
+        "tag": "v0.6.0",
+        "downloads": 23
+      },
+      {
+        "tag": "v0.5.2",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.5.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.5.0",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.4.0",
+        "downloads": 6
+      },
+      {
+        "tag": "v0.3.2",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.1",
+        "downloads": 1
+      },
+      {
+        "tag": "v0.3.0",
+        "downloads": 0
+      },
+      {
+        "tag": "v0.2.1",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.2.0",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.2",
+        "downloads": 5
+      },
+      {
+        "tag": "v0.1.1",
+        "downloads": 3
+      },
+      {
+        "tag": "v0.1.0",
+        "downloads": 13
+      }
+    ],
+    "2026-10-18": [
       {
         "tag": "v0.6.0",
         "downloads": 23

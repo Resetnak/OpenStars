@@ -3,7 +3,7 @@
   "repo": "Resetnak/MakeView",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-25",
-  "last_collected_at": "2026-11-10T11:07:15.294Z",
+  "last_collected_at": "2026-11-11T10:53:23.822Z",
   "daily": [
     {
       "date": "2026-07-25",
@@ -1421,6 +1421,19 @@
       "subscribers": 0,
       "open_issues": 0,
       "size_kb": 377
+    },
+    {
+      "date": "2026-11-11",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 0,
+      "forks": 1,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 377
     }
   ],
   "referrers": {
@@ -1556,6 +1569,13 @@
       }
     ],
     "2026-11-10": [
+      {
+        "referrer": "aocr.org",
+        "count": 3,
+        "uniques": 3
+      }
+    ],
+    "2026-11-11": [
       {
         "referrer": "aocr.org",
         "count": 3,
@@ -1865,6 +1885,20 @@
       }
     ],
     "2026-11-10": [
+      {
+        "path": "/Resetnak/MakeView",
+        "title": "Overview",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Resetnak/MakeView/pull/1",
+        "title": "/pull/1",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-11-11": [
       {
         "path": "/Resetnak/MakeView",
         "title": "Overview",
@@ -2271,6 +2305,12 @@
       }
     ],
     "2026-11-10": [
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ],
+    "2026-11-11": [
       {
         "tag": "v1.0.0",
         "downloads": 0

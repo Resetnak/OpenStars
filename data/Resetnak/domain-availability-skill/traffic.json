@@ -3,7 +3,7 @@
   "repo": "Resetnak/domain-availability-skill",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-31",
-  "last_collected_at": "2026-11-10T11:07:15.294Z",
+  "last_collected_at": "2026-11-11T10:53:23.822Z",
   "daily": [
     {
       "date": "2026-07-31",
@@ -1333,6 +1333,19 @@
     },
     {
       "date": "2026-11-10",
+      "views": 2,
+      "views_uniques": 1,
+      "clones": 28,
+      "clones_uniques": 26,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 8
+    },
+    {
+      "date": "2026-11-11",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -1578,6 +1591,18 @@
         "referrer": "aocr.org",
         "count": 2,
         "uniques": 2
+      }
+    ],
+    "2026-11-11": [
+      {
+        "referrer": "aocr.org",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 1
       }
     ]
   },
@@ -2088,6 +2113,20 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-11-11": [
+      {
+        "path": "/Resetnak/domain-availability-skill",
+        "title": "Overview",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "path": "/resetnak/domain-availability-skill",
+        "title": "Overview",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -2156,6 +2195,7 @@
     "2026-11-07": [],
     "2026-11-08": [],
     "2026-11-09": [],
-    "2026-11-10": []
+    "2026-11-10": [],
+    "2026-11-11": []
   }
 }

@@ -3,7 +3,7 @@
   "repo": "Resetnak/cooldeck",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-11-13T10:55:01.838Z",
+  "last_collected_at": "2026-11-14T10:20:30.459Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -1463,6 +1463,19 @@
     },
     {
       "date": "2026-11-13",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 28,
+      "forks": 1,
+      "watchers": 28,
+      "subscribers": 0,
+      "open_issues": 3,
+      "size_kb": 20755
+    },
+    {
+      "date": "2026-11-14",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -3313,6 +3326,28 @@
       }
     ],
     "2026-11-13": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "referrer": "aocr.org",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "terminaltrove.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-11-14": [
       {
         "referrer": "github.com",
         "count": 3,
@@ -7613,6 +7648,68 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-11-14": [
+      {
+        "path": "/Resetnak/cooldeck",
+        "title": "Overview",
+        "count": 10,
+        "uniques": 10
+      },
+      {
+        "path": "/Resetnak/cooldeck/discussions/categories/announcements",
+        "title": "/discussions/categories/announcements",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/Resetnak/cooldeck/actions/runs/36153780131",
+        "title": "/actions/runs/36153780131",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/actions/runs/36412060430",
+        "title": "/actions/runs/36412060430",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/actions/runs/36666412162",
+        "title": "/actions/runs/36666412162",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/actions/runs/36666412317",
+        "title": "/actions/runs/36666412317",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/docs/decisions/0003-separate-domain-model-from-api-dto.md",
+        "title": "/blob/main/docs/decisions/0003-separate-domain-model-from-api-dto.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/docs/decisions/0004-credential-storage-strategy.md",
+        "title": "/blob/main/docs/decisions/0004-credential-storage-strategy.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/main/docs/decisions/0005-tui-responsive-layout.md",
+        "title": "/blob/main/docs/decisions/0005-tui-responsive-layout.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/cooldeck/blob/v0.4.0/docs/decisions/0006-mcp-server-read-only-by-default.md",
+        "title": "/blob/v0.4.0/docs/decisions/0006-mcp-server-read-only-by-default.md",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -11289,6 +11386,60 @@
       }
     ],
     "2026-11-13": [
+      {
+        "tag": "v0.6.0",
+        "downloads": 51
+      },
+      {
+        "tag": "v0.5.2",
+        "downloads": 24
+      },
+      {
+        "tag": "v0.5.1",
+        "downloads": 13
+      },
+      {
+        "tag": "v0.5.0",
+        "downloads": 24
+      },
+      {
+        "tag": "v0.4.0",
+        "downloads": 18
+      },
+      {
+        "tag": "v0.3.2",
+        "downloads": 13
+      },
+      {
+        "tag": "v0.3.1",
+        "downloads": 13
+      },
+      {
+        "tag": "v0.3.0",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.2.1",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.2.0",
+        "downloads": 15
+      },
+      {
+        "tag": "v0.1.2",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.1.1",
+        "downloads": 9
+      },
+      {
+        "tag": "v0.1.0",
+        "downloads": 19
+      }
+    ],
+    "2026-11-14": [
       {
         "tag": "v0.6.0",
         "downloads": 51

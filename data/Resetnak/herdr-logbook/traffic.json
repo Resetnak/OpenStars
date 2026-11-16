@@ -3,7 +3,7 @@
   "repo": "Resetnak/herdr-logbook",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-11-15T10:48:27.408Z",
+  "last_collected_at": "2026-11-16T11:10:47.296Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -1499,6 +1499,19 @@
       "subscribers": 0,
       "open_issues": 4,
       "size_kb": 7144
+    },
+    {
+      "date": "2026-11-16",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 0,
+      "clones_uniques": 0,
+      "stars": 14,
+      "forks": 3,
+      "watchers": 14,
+      "subscribers": 0,
+      "open_issues": 4,
+      "size_kb": 7144
     }
   ],
   "referrers": {
@@ -2733,6 +2746,23 @@
       }
     ],
     "2026-11-15": [
+      {
+        "referrer": "Google",
+        "count": 8,
+        "uniques": 8
+      },
+      {
+        "referrer": "github.com",
+        "count": 5,
+        "uniques": 4
+      },
+      {
+        "referrer": "Bing",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-11-16": [
       {
         "referrer": "Google",
         "count": 8,
@@ -6756,6 +6786,56 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-11-16": [
+      {
+        "path": "/Resetnak/herdr-logbook",
+        "title": "Overview",
+        "count": 38,
+        "uniques": 31
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/pulls",
+        "title": "/pulls",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/config.example.toml",
+        "title": "/blob/main/config.example.toml",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/docs/herdr-compatibility.md",
+        "title": "/blob/main/docs/herdr-compatibility.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/issues/10",
+        "title": "/issues/10",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/issues/26",
+        "title": "/issues/26",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/pull/25",
+        "title": "/pull/25",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/pull/27",
+        "title": "/pull/27",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -9983,6 +10063,52 @@
       {
         "tag": "v0.0.13",
         "downloads": 155
+      },
+      {
+        "tag": "v0.0.12",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.11",
+        "downloads": 8
+      },
+      {
+        "tag": "v0.0.9",
+        "downloads": 46
+      },
+      {
+        "tag": "v0.0.8",
+        "downloads": 18
+      },
+      {
+        "tag": "v0.0.7",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.0.6",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.5",
+        "downloads": 2
+      },
+      {
+        "tag": "v0.0.4",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.3",
+        "downloads": 10
+      },
+      {
+        "tag": "v0.0.2",
+        "downloads": 17
+      }
+    ],
+    "2026-11-16": [
+      {
+        "tag": "v0.0.13",
+        "downloads": 156
       },
       {
         "tag": "v0.0.12",

@@ -3,7 +3,7 @@
   "repo": "Resetnak/domain-availability-skill",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-31",
-  "last_collected_at": "2026-11-23T12:30:22.393Z",
+  "last_collected_at": "2026-11-24T13:38:24.116Z",
   "daily": [
     {
       "date": "2026-07-31",
@@ -1504,6 +1504,19 @@
       "date": "2026-11-23",
       "views": 0,
       "views_uniques": 0,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 8
+    },
+    {
+      "date": "2026-11-24",
+      "views": 0,
+      "views_uniques": 0,
       "clones": 0,
       "clones_uniques": 0,
       "stars": 0,
@@ -1844,6 +1857,13 @@
       }
     ],
     "2026-11-23": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "2026-11-24": [
       {
         "referrer": "github.com",
         "count": 2,
@@ -2474,6 +2494,14 @@
         "count": 2,
         "uniques": 1
       }
+    ],
+    "2026-11-24": [
+      {
+        "path": "/Resetnak/domain-availability-skill",
+        "title": "Overview",
+        "count": 2,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -2555,6 +2583,7 @@
     "2026-11-20": [],
     "2026-11-21": [],
     "2026-11-22": [],
-    "2026-11-23": []
+    "2026-11-23": [],
+    "2026-11-24": []
   }
 }

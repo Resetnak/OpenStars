@@ -3,7 +3,7 @@
   "repo": "Resetnak/domain-availability-skill",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-31",
-  "last_collected_at": "2026-11-25T12:47:58.304Z",
+  "last_collected_at": "2026-11-26T12:25:59.731Z",
   "daily": [
     {
       "date": "2026-07-31",
@@ -1530,6 +1530,19 @@
       "date": "2026-11-25",
       "views": 0,
       "views_uniques": 0,
+      "clones": 2,
+      "clones_uniques": 2,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 8
+    },
+    {
+      "date": "2026-11-26",
+      "views": 0,
+      "views_uniques": 0,
       "clones": 0,
       "clones_uniques": 0,
       "stars": 0,
@@ -1883,7 +1896,8 @@
         "uniques": 1
       }
     ],
-    "2026-11-25": []
+    "2026-11-25": [],
+    "2026-11-26": []
   },
   "paths": {
     "2026-09-06": [
@@ -2517,7 +2531,8 @@
         "uniques": 1
       }
     ],
-    "2026-11-25": []
+    "2026-11-25": [],
+    "2026-11-26": []
   },
   "releases": {
     "2026-09-06": [],
@@ -2600,6 +2615,7 @@
     "2026-11-22": [],
     "2026-11-23": [],
     "2026-11-24": [],
-    "2026-11-25": []
+    "2026-11-25": [],
+    "2026-11-26": []
   }
 }

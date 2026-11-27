@@ -3,7 +3,7 @@
   "repo": "Resetnak/cooldeck",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-11-26T12:25:59.731Z",
+  "last_collected_at": "2026-11-27T12:11:57.249Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -1632,6 +1632,19 @@
     },
     {
       "date": "2026-11-26",
+      "views": 0,
+      "views_uniques": 0,
+      "clones": 4,
+      "clones_uniques": 4,
+      "stars": 28,
+      "forks": 1,
+      "watchers": 28,
+      "subscribers": 0,
+      "open_issues": 3,
+      "size_kb": 20755
+    },
+    {
+      "date": "2026-11-27",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -3643,6 +3656,13 @@
       }
     ],
     "2026-11-26": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 2
+      }
+    ],
+    "2026-11-27": [
       {
         "referrer": "github.com",
         "count": 3,
@@ -8482,6 +8502,20 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-11-27": [
+      {
+        "path": "/Resetnak/cooldeck",
+        "title": "Overview",
+        "count": 5,
+        "uniques": 4
+      },
+      {
+        "path": "/Resetnak/cooldeck/stargazers",
+        "title": "/stargazers",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -12860,6 +12894,60 @@
       }
     ],
     "2026-11-26": [
+      {
+        "tag": "v0.6.0",
+        "downloads": 60
+      },
+      {
+        "tag": "v0.5.2",
+        "downloads": 24
+      },
+      {
+        "tag": "v0.5.1",
+        "downloads": 13
+      },
+      {
+        "tag": "v0.5.0",
+        "downloads": 24
+      },
+      {
+        "tag": "v0.4.0",
+        "downloads": 18
+      },
+      {
+        "tag": "v0.3.2",
+        "downloads": 13
+      },
+      {
+        "tag": "v0.3.1",
+        "downloads": 13
+      },
+      {
+        "tag": "v0.3.0",
+        "downloads": 12
+      },
+      {
+        "tag": "v0.2.1",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.2.0",
+        "downloads": 15
+      },
+      {
+        "tag": "v0.1.2",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.1.1",
+        "downloads": 9
+      },
+      {
+        "tag": "v0.1.0",
+        "downloads": 19
+      }
+    ],
+    "2026-11-27": [
       {
         "tag": "v0.6.0",
         "downloads": 60

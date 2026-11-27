@@ -3,7 +3,7 @@
   "repo": "Resetnak/herdr-logbook",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-07-24",
-  "last_collected_at": "2026-11-26T12:25:59.731Z",
+  "last_collected_at": "2026-11-27T12:11:57.249Z",
   "daily": [
     {
       "date": "2026-07-24",
@@ -1632,6 +1632,19 @@
     },
     {
       "date": "2026-11-26",
+      "views": 5,
+      "views_uniques": 5,
+      "clones": 9,
+      "clones_uniques": 4,
+      "stars": 15,
+      "forks": 3,
+      "watchers": 15,
+      "subscribers": 0,
+      "open_issues": 4,
+      "size_kb": 7151
+    },
+    {
+      "date": "2026-11-27",
       "views": 0,
       "views_uniques": 0,
       "clones": 0,
@@ -3037,6 +3050,23 @@
         "referrer": "github.com",
         "count": 5,
         "uniques": 5
+      },
+      {
+        "referrer": "DuckDuckGo",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "2026-11-27": [
+      {
+        "referrer": "Google",
+        "count": 6,
+        "uniques": 6
+      },
+      {
+        "referrer": "github.com",
+        "count": 4,
+        "uniques": 4
       },
       {
         "referrer": "DuckDuckGo",
@@ -7487,6 +7517,26 @@
         "count": 1,
         "uniques": 1
       }
+    ],
+    "2026-11-27": [
+      {
+        "path": "/Resetnak/herdr-logbook",
+        "title": "Overview",
+        "count": 36,
+        "uniques": 33
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/blob/main/AGENTS.md",
+        "title": "/blob/main/AGENTS.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Resetnak/herdr-logbook/issues/10",
+        "title": "/issues/10",
+        "count": 1,
+        "uniques": 1
+      }
     ]
   },
   "releases": {
@@ -11217,6 +11267,52 @@
       }
     ],
     "2026-11-26": [
+      {
+        "tag": "v0.0.13",
+        "downloads": 159
+      },
+      {
+        "tag": "v0.0.12",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.11",
+        "downloads": 8
+      },
+      {
+        "tag": "v0.0.9",
+        "downloads": 46
+      },
+      {
+        "tag": "v0.0.8",
+        "downloads": 18
+      },
+      {
+        "tag": "v0.0.7",
+        "downloads": 17
+      },
+      {
+        "tag": "v0.0.6",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.5",
+        "downloads": 2
+      },
+      {
+        "tag": "v0.0.4",
+        "downloads": 4
+      },
+      {
+        "tag": "v0.0.3",
+        "downloads": 10
+      },
+      {
+        "tag": "v0.0.2",
+        "downloads": 17
+      }
+    ],
+    "2026-11-27": [
       {
         "tag": "v0.0.13",
         "downloads": 159

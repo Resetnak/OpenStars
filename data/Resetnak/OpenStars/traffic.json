@@ -3,7 +3,7 @@
   "repo": "Resetnak/OpenStars",
   "generator": "openstars/1.0.1",
   "first_collected": "2026-09-06",
-  "last_collected_at": "2026-11-27T12:11:57.249Z",
+  "last_collected_at": "2026-11-28T11:41:01.547Z",
   "daily": [
     {
       "date": "2026-08-24",
@@ -1244,6 +1244,19 @@
       "date": "2026-11-27",
       "views": 0,
       "views_uniques": 0,
+      "clones": 2,
+      "clones_uniques": 1,
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "subscribers": 0,
+      "open_issues": 0,
+      "size_kb": 737
+    },
+    {
+      "date": "2026-11-28",
+      "views": 0,
+      "views_uniques": 0,
       "clones": 0,
       "clones_uniques": 0,
       "stars": 1,
@@ -1251,7 +1264,7 @@
       "watchers": 1,
       "subscribers": 0,
       "open_issues": 0,
-      "size_kb": 737
+      "size_kb": 749
     }
   ],
   "referrers": {
@@ -1645,7 +1658,8 @@
     "2026-11-24": [],
     "2026-11-25": [],
     "2026-11-26": [],
-    "2026-11-27": []
+    "2026-11-27": [],
+    "2026-11-28": []
   },
   "paths": {
     "2026-09-06": [],
@@ -2789,7 +2803,8 @@
     "2026-11-24": [],
     "2026-11-25": [],
     "2026-11-26": [],
-    "2026-11-27": []
+    "2026-11-27": [],
+    "2026-11-28": []
   },
   "releases": {
     "2026-09-06": [
@@ -3605,6 +3620,16 @@
       }
     ],
     "2026-11-27": [
+      {
+        "tag": "v1.0.1",
+        "downloads": 0
+      },
+      {
+        "tag": "v1.0.0",
+        "downloads": 0
+      }
+    ],
+    "2026-11-28": [
       {
         "tag": "v1.0.1",
         "downloads": 0
